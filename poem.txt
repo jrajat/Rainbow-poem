@@ -8,7 +8,6 @@ Indigo
 Recycle!
 Green
 Unicorn
-Hello World!
 Yellow
 Red
 These are the colors of rainbow and the Unicorn.
